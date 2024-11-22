@@ -22,3 +22,8 @@ project-root/
     ├── test_bot_interface.py
     ├── test_data_collection.py
     └── test_prediction_engine.py
+
+
+TODO: 
+a lot
+make github secrets for api key etc.
